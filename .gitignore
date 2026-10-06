@@ -1,0 +1,5 @@
+data/
+*.zip
+checkpoints/
+*.pt
+__pycache__/
